@@ -1,0 +1,5 @@
+rotation:
+1: defpose 2
+2: take 3_1
+3: take 2
+4: take 4
