@@ -3,3 +3,47 @@ rotation:
 2: take 3_1
 3: take 2
 4: take 4
+
+best 3d:
+defpose_0 : cr ba
+defpose_1 : e3 ba
+defpose 2 : e3 ba
+defpose_3 : cl ba
+take 2 : cr ba
+take 2_1 : cl ba
+take 3 : e3 ba
+take 3_1 : lr ba
+take 3_2 : lr ba
+take 3_3 : cr ba
+take 4 : e3 ba
+
+Flapping Pose:
+defpose 0
+take2
+take3
+take3_1
+take4
+
+walking pose:
+defpose 3
+defpose 1
+take2_1
+take3 (going front t-pose)
+take3_3 (going back)
+take 4
+
+hands go straight:
+take2
+take3_2
+
+
+findings:
+-take2 lr vs take2 lr ba & take4 lr vs lr ba ==> BA sucks
+- take4 cl vs cr vs e3 ==> at wider angle calibration with just 2 camera from left or rigth except lr will result in skewed model
+- BA cause jittering?
+
+
+
+
+
+
