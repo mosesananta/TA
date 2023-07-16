@@ -36,6 +36,9 @@ hands go straight:
 take2
 take3_2
 
+banned:
+defpose2
+take3_2
 
 findings:
 -take2 lr vs take2 lr ba & take4 lr vs lr ba ==> BA sucks
