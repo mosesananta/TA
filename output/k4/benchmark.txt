@@ -40,6 +40,16 @@ banned:
 defpose2
 take3_2
 
+outlier:
+take4
+defpose1
+defpose
+take2_1
+take2
+take3_2
+take3
+
+
 findings:
 -take2 lr vs take2 lr ba & take4 lr vs lr ba ==> BA sucks
 - take4 cl vs cr vs e3 ==> at wider angle calibration with just 2 camera from left or rigth except lr will result in skewed model
